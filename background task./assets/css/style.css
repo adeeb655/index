@@ -1,0 +1,60 @@
+       .img{
+     position:absolute;
+     top: 0%;
+     left: 0%;
+     width: 100vw;
+     height: 100vh;
+     background-image: url("background-image.jpg");
+     background-repeat: no-repeat;
+     background-size: 100%; 
+ }
+ li{
+     color: white;
+    margin-right: 7%;
+    padding-top: 2rem;
+     list-style: none;
+     color: black;   
+ }
+
+ ul{
+     display: flex;   
+ }
+  li a:hover{
+     color: skyblue;
+ }
+ li a{
+     text-decoration: none;
+     color: black;
+ }
+ #logo{
+     height: 218%;
+     width: 25%;
+     margin-top: -25px;
+     padding-right: 4rem;
+ }
+ #option{
+     width: 25%;
+     padding: 10px;
+     border-radius: 3px;
+     padding-left: 10px;
+     color:grey;
+ }
+ button{
+     width: 200px;
+     padding: 10px;
+     background-color:skyblue;
+     border-radius: 5px;
+ }
+ h1{
+     color:grey;
+     margin-top: 20%;
+     margin-left: 10%;
+ }
+ .input{
+     margin-left: 10%;
+     color: white;
+
+ }
+ .btt{
+     color: grey;
+ }
